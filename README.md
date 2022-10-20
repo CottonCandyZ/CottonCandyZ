@@ -9,3 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Studying ...
+
+[Home page](https://cottoncandyz.notion.site/Cotton-CandyZ-30e81e53f0d847ce9cb535bd5c548685)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CottonCandyZ&layout=compact)
