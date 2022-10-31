@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 --->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CottonCandyZ&layout=compact">
+
 Studying ...
 
 [Home page](https://home.nanachi.moe)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CottonCandyZ&layout=compact)
