@@ -1,3 +1,3 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CottonCandyZ&layout=compact">
 
-这里是棉花糖！最近在学习有关前端的一切，包括 React.js, Next.js, Vue.js, Node.js etc...
+Complex -> Simple -> Repeat .... 🔁
