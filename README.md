@@ -6,5 +6,5 @@
   <br/>
   <a href='https://home.nanachi.moe'>Home</a>
   ·
-  <a href='https://cottoncangyz.notion.so'>Note</a>
+  <a href='https://cottoncandyz.notion.site'>Note</a>
 </p>
