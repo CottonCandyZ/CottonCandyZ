@@ -14,6 +14,4 @@
   ·
   <a href='https://cottoncandyz.notion.site'>Note</a>
   <br/>
-  <br/>
-  Complex → Simple → Repeat .... 🔁
 </p>
